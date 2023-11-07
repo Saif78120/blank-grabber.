@@ -10,7 +10,7 @@ Cependant, comme le dit le proverbe, toutes les bonnes choses ont une fin. À l'
 
 Je tiens à exprimer ma sincère gratitude à tous ceux qui ont participé à ce projet, que ce soit par le biais de contributions au code, de rapports de problèmes ou d'informations précieuses. Votre implication a été le moteur de la réussite du projet.
 
-Je suis heureux d'annoncer que noahmajors, l'un des contributeurs à ce projet, à pris l'initiative de forker le référentiel et de poursuivre son développement. Vous pouvez trouver le fork actif sur le lien suivant : -https://github.com/Saif78120/blank-grabber.
+Je suis heureux d'annoncer que noahmajors, l'un des contributeurs à ce projet, à pris l'initiative de forker le référentiel et de poursuivre son développement. Vous pouvez trouver le fork actif sur le lien suivant : -https://github.com/Saif78120/blank-grabber. le site marche   avec le point 
 
 Je vous encourage tous à montrer votre soutien aux noahmajors et à la nouvelle direction qu'ils prendront pour le projet. Veuillez envisager de contribuer au fork si vous êtes intéressé par son développement futur.
 
